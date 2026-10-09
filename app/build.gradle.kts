@@ -4,7 +4,7 @@ plugins {
     id("kotlin-kapt")
 }
 
-val room_version = "2.8.7"
+val room_version = "2.6.1"
 
 android {
     namespace = "com.example.lab08"
